@@ -1,27 +1,40 @@
 <h1 align="center">Hi 👋, I'm Elisel B!</h1>
-<h3 align="center">A passionate frontend developer and life long student.</h3>
+<h3 align="center">I’m a curious technologist who loves connecting people, data, and processes to make work more efficient and meaningful.
+Currently blending IT support, data engineering, and process improvement to drive better visibility, automation, and decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliselbarton1&label=Profile%20views&color=0e75b6&style=flat" alt="eliselbarton1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliselbarton1" alt="eliselbarton1" /></a> </p>
 
-- 🔭 I’m currently working on a text-interactive game with a diverse group. My main role consists of being project manager while also picking up various tasks. [Dystopian_Text_Interactive_Game](https://github.com/orgs/UoPeople-SDTB/projects/1)
+💼 What I’m Working On
 
-- 🌱 I’m currently learning and want to learn **JavaScript, Bootstrap, React, SQL**
+🧩 Service Desk Optimization at Highspring (formerly Pivot Point Consulting) — building workflow visibility tools, documenting onboarding processes, and supporting 9 healthcare clients.
 
-- 👯 I’m looking to collaborate with people with all kinds of business, technical, and HR skill sets. [Dystopian_Text_Interactive_Game](https://github.com/orgs/UoPeople-SDTB/projects/1)
+🔗 ETL + Data Integration Projects with JerseySTEM — maintaining MySQL pipelines in Integrate.io, mentoring interns, and improving data freshness tracking.
 
-- 👨‍💻 All of my projects are available at [https://github.com/EliselBarton1](https://github.com/EliselBarton1)
+📊 Building data dashboards and workflow automations in Power BI, Zapier, and Python.
 
-- 📝 I regularly write articles on [https://www.Eliselbarton1.Hashnode.dev](https://www.Eliselbarton1.Hashnode.dev)
+🚀 Currently Learning
 
-- 💬 Ask me about **Python, HTML, CSS & Project Management.**
+Cloud & Data Tools: AWS | Azure | dbt | Integrate.io | MySQL
 
-- 📫 How to reach me **Ebart2024@gmail.com**
+Programming & Automation: Python | SQL | Power Automate | API Integration
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/elisel-barton01](https://www.linkedin.com/in/elisel-barton01)
+Leadership & Strategy: Process Design | Training SOPs | Analytics for Decision Support
 
-- ⚡ Fun fact **Elephants are super smart and caring animals, my favorite!**
+🤝 Let’s Collaborate
+
+I enjoy working with data, documentation, and people — especially on projects that teach, simplify, or automate.
+If you’re working on something in data operations, analytics, or AI automation, let’s connect!
+
+🛠️ Languages & Tools
+
+Python • SQL • Power BI • Integrate.io • Zapier • GitHub • ServiceNow • CXone • Excel • Power Automate
+
+💡 Fun Fact
+
+I’m fascinated by how systems — from data pipelines to human teams — evolve when given clarity and purpose.
+Also, elephants are still my favorite 🐘💛
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
