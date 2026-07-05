@@ -25,8 +25,9 @@ Currently doing this at JerseySTEM.
 | [student-performance-data-quality](https://github.com/eliselbarton1/student-performance-data-quality) | pandas-based data cleaning/validation with automated flagging and summary reporting |
 | [python-automation-scripts](https://github.com/eliselbarton1/python-automation-scripts) | Python automation: file cleanup, log-based email alerting, CSV validation, API pull example |
 | [bi-dashboard-project](https://github.com/eliselbarton1/bi-dashboard-project) | Looker Studio KPI dashboard: cleaned data, KPI definitions, and a data-grounded business insights write-up |
+| [business-requirements-to-data-solution](https://github.com/eliselbarton1/business-requirements-to-data-solution) | Case study: a vague stakeholder ask, conflicting requirements resolved, a data mapping, and a reconciliation check that catches a real reporting bug |
 
-*(More case studies — a SQL data quality audit and a business-requirements-to-data-solution write-up — in progress.)*
+*(A SQL data quality audit repo is in progress.)*
 
 ### 🛠️ Tools
 
