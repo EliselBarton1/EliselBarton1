@@ -27,8 +27,6 @@ Currently doing this at JerseySTEM.
 | [bi-dashboard-project](https://github.com/eliselbarton1/bi-dashboard-project) | Looker Studio KPI dashboard: cleaned data, KPI definitions, and a data-grounded business insights write-up |
 | [business-requirements-to-data-solution](https://github.com/eliselbarton1/business-requirements-to-data-solution) | Case study: a vague stakeholder ask, conflicting requirements resolved, a data mapping, and a reconciliation check that catches a real reporting bug |
 
-*(A SQL data quality audit repo is in progress.)*
-
 ### 🛠️ Tools
 
 `Python` `SQL (MySQL)` `Power BI` `Looker` `Integrate.io` `Salesforce` `Jira` `Zapier` `Power Automate` `Git`
