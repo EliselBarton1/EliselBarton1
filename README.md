@@ -15,7 +15,7 @@ I work at the intersection of **data integration, data quality, and business rep
 - 🐍 **Automation** — Python scripts for cleanup, validation, and reporting so manual steps stop being manual
 - 📝 **Documentation** — Jira-style write-ups (summary, repro, acceptance criteria, resolution) so process knowledge doesn't live only in someone's head
 
-Currently doing this at Highspring (formerly Pivot Point Consulting) and JerseySTEM.
+Currently doing this at JerseySTEM.
 
 ### 💼 Featured projects
 
@@ -33,7 +33,7 @@ Currently doing this at Highspring (formerly Pivot Point Consulting) and JerseyS
 
 ### 💡 Fun fact
 
-I'm fascinated by how systems — from data pipelines to human teams — evolve when given clarity and purpose. Also, elephants are still my favorite 🐘💛
+I'm fascinated by how systems — from data pipelines to human teams — evolve when given clarity and purpose. Also, elephants are one of my favorite animals 🐘💛
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
