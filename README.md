@@ -24,8 +24,9 @@ Currently doing this at JerseySTEM.
 | [data-integration-pipeline-monitoring](https://github.com/eliselbarton1/data-integration-pipeline-monitoring) | ETL monitoring across systems: freshness checks, cross-system data validation, alerting, Jira-style incident docs |
 | [student-performance-data-quality](https://github.com/eliselbarton1/student-performance-data-quality) | pandas-based data cleaning/validation with automated flagging and summary reporting |
 | [python-automation-scripts](https://github.com/eliselbarton1/python-automation-scripts) | Python automation: file cleanup, log-based email alerting, CSV validation, API pull example |
+| [bi-dashboard-project](https://github.com/eliselbarton1/bi-dashboard-project) | Looker Studio KPI dashboard: cleaned data, KPI definitions, and a data-grounded business insights write-up |
 
-*(More case studies — SQL data quality audits, a BI dashboard project, and a business-requirements-to-data-solution write-up — in progress.)*
+*(More case studies — a SQL data quality audit and a business-requirements-to-data-solution write-up — in progress.)*
 
 ### 🛠️ Tools
 
