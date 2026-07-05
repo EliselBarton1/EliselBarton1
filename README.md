@@ -23,7 +23,7 @@ Currently doing this at JerseySTEM.
 |---|---|
 | [data-integration-pipeline-monitoring](https://github.com/eliselbarton1/data-integration-pipeline-monitoring) | ETL monitoring across systems: freshness checks, cross-system data validation, alerting, Jira-style incident docs |
 | [student-performance-data-quality](https://github.com/eliselbarton1/student-performance-data-quality) | pandas-based data cleaning/validation with automated flagging and summary reporting |
-| [Automated-IT-Workflow](https://github.com/eliselbarton1/Automated-IT-Workflow) | Python automation for file cleanup and log monitoring |
+| [python-automation-scripts](https://github.com/eliselbarton1/python-automation-scripts) | Python automation: file cleanup, log-based email alerting, CSV validation, API pull example |
 
 *(More case studies — SQL data quality audits, a BI dashboard project, and a business-requirements-to-data-solution write-up — in progress.)*
 
